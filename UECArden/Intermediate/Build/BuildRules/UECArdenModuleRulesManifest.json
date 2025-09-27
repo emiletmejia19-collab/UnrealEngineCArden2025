@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Usuario\\Documents\\GitHub\\UnrealEngineCArden2025\\UECArden\\Source\\UECArden\\UECArden.Build.cs",
+		"C:\\Users\\Usuario\\Documents\\GitHub\\UnrealEngineCArden2025\\UECArden\\Source\\UECArden.Target.cs",
+		"C:\\Users\\Usuario\\Documents\\GitHub\\UnrealEngineCArden2025\\UECArden\\Source\\UECArdenEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
